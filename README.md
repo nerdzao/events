@@ -19,8 +19,9 @@
 
 # Meetups
 
- 114. [Tecnologias Inovadoras para Web & Mobile](https://github.com/nerdzao/events/blob/master/meetup/114/README.md)
- 125. [Node.js in Production](https://github.com/nerdzao/events/tree/master/meetup/125/README.md)
+[114 - Tecnologias Inovadoras para Web & Mobile](https://github.com/nerdzao/events/blob/master/meetup/114/README.md)
+
+[125 - Node.js in Production](https://github.com/nerdzao/events/tree/master/meetup/125/README.md)
 
 # School
 
