@@ -18,7 +18,8 @@
  
  **Virando um MC com TensorFlow - Letícia Pedroso e Igor Halfeld**
 
- - [Slide](#)
+ - [GitHub](https://github.com/leticiaspedroso/funk-generator)
+ - [Slide](https://speakerdeck.com/igorhalfeld/became-a-mc-with-tensorflow)
 
 **Parceiro**
 
