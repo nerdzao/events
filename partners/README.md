@@ -17,6 +17,13 @@
             </td>
         </tr>
         <tr>
+            <td>Developer Circles</td>
+            <td>
+                <img height="100"
+                    src="https://github.com/nerdzao/events/blob/master/partners/logos/developer-circles.png?raw=true">
+            </td>
+        </tr>
+        <tr>
             <td>FCamara</td>
             <td>
                 <img height="100"
