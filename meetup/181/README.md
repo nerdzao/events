@@ -16,11 +16,11 @@
 
 **Kubernetes Reliability by Security Policies (SRE & Security) - Bruno S. Brasil**
 
-- [Slide (Pendente)](#)
+- [Slide](k8s-security-bruno-brasil.pdf)
 
 **Como garantir a saúde do seu sistema? Logging- Karl Alexander**
 
-- [Slide (Pendente)](#)
+- [Slide](logging-karl-alexandre.pptx)
 
 **Parceiro**
 
