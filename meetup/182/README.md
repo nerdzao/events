@@ -6,7 +6,7 @@
 </p>
 
  - [Evento](http://devcsp31.splashthat.com)
- - [Fotos](#)
+ - [Fotos](https://drive.google.com/drive/u/0/folders/1EoMAWXbDhlBzk4ZWW9Qy-708u9z43hQD)
 
 **Velrino**
 
