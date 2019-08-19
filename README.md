@@ -25,6 +25,8 @@
 
 [#181 - Site Reliability Engineering](https://github.com/nerdzao/events/tree/master/meetup/181/README.md)
 
+[#182 - Desbravando o Git – Iniciantes](https://github.com/nerdzao/events/blob/master/meetup/182/README.md)
+
 # School
 
 # Workshops
