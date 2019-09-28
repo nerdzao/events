@@ -12,12 +12,12 @@
  
 **Back-end (Velrino)**
 
- - [Github Adonis](https://github.com/velrino/workshop-adonisjs)
+ - [Github](https://github.com/velrino/workshop-adonisjs)
 
 **Front-end (Tadeu)**
 
 
- - [Github React Native](https://github.com/tadeumx1/PlacesAppWorkshop)
+ - [Github](https://github.com/tadeumx1/PlacesAppWorkshop)
 
 **Parceiro**
 
